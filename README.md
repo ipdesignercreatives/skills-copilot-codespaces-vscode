@@ -1,9 +1,9 @@
-<header>
+<Ipdesignercreativesptyltd>
 
 <!--
-  <<< Author notes: Course header >>>
-  Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
-  Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
+  <<< Author notes: Online Website>>>
+  Read <https://skills.github.com/quickstart>Online e-commerce website 
+  Include a 1280×640 image, IP Designer Creatives Pty Ltd., Fashion styling Drip store Streetwear Fashion and accessories.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Next to "About", add description & tags; disable releases, packages, & environments.
   Add your open source license, GitHub uses the MIT license.
@@ -13,7 +13,7 @@
 
 _GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
 
-</header>
+</International Pantsula Designer Creatives>
 
 <!--
   <<< Author notes: Step 1 >>>
